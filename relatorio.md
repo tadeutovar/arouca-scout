@@ -10,13 +10,13 @@
 | Nº | Jogador | Posição | Pé Dominante |
 |---|---|---|---|
 | 1 | Bento | Goleiro | Destro |
-| 10 | Mateus Marques | Ala | Canhoto |
-| 14 | Netinho / Tomás | Pivô | Destro |
+| 10 | Matteo Marques | Ala | Canhoto |
+| 14 | Thomás | Pivô | Destro |
 | 19 | Bernardo | Ala | Destro |
 | 23 | Joaquim / Joca | Fixo | Destro |
 | 37 | Josué / Jojô | Fixo | Canhoto |
-| 39 | Valentin | Jogador de Linha | Destro |
-| 61 | Luca Gabriel | Ala | Destro |
+| 39 | Valentim | Jogador de Linha | Destro |
+| 61 | Lucca Gabriel | Ala | Destro |
 
 ---
 
@@ -26,47 +26,47 @@
 
 | Tempo | Jogador | Resultado | Pé | Região | Baliza | Período |
 |---|---|---|---|---|---|---|
-| 28:33 | Mateus | Fora | Canhoto | Meia-Lua | — | 1T |
-| 29:06 | Tomás | Defendido | Destro | Área | — | 1T |
-| 29:47 | Tomás | Fora | Destro | Meia-Lua | — | 1T |
-| 30:51 | Mateus | Fora | Canhoto | Meia-Lua | — | 1T |
+| 28:33 | Matteo | Fora | Canhoto | Meia-Lua | — | 1T |
+| 29:06 | Thomás | Defendido | Destro | Área | — | 1T |
+| 29:47 | Thomás | Fora | Destro | Meia-Lua | — | 1T |
+| 30:51 | Matteo | Fora | Canhoto | Meia-Lua | — | 1T |
 | 33:46 | Jojô | Fora | Canhoto | Meia-Lua | — | 1T |
-| 36:08 | Mateus | Fora | Canhoto | Meia-Lua | — | 1T |
-| 37:56 | Tomás | Fora | Destro | Meia-Lua | — | 1T |
-| 39:04 | Mateus | Defendido | Canhoto | Área | — | 1T |
-| 39:14 | Luca | Defendido | Destro | Área | — | 1T |
-| 39:58 | Tomás | Interceptado | Destro | Meia-Lua | — | 1T |
-| 40:27 | Tomás | Fora | Destro | Meia-Lua | — | 1T |
-| 43:07 | Tomás | Fora | Destro | Meia-Lua | — | 1T |
-| 44:12 | Mateus | Defendido | Canhoto | Área | — | 1T |
-| 45:56 | Mateus | Fora | Canhoto | Meia-Lua | — | 1T |
-| 46:44 | Tomás | Interceptado | Destro | Área | — | 1T |
-| 47:42 | Tomás | **Gol** | Destro | Área | Baixo Esquerdo | 1T |
-| 1:01:14 | Mateus | Trave | Canhoto | Meia-Lua | — | 2T |
-| 1:02:18 | Mateus | Fora | Canhoto | Meia-Lua | — | 2T |
-| 1:06:24 | Mateus | **Gol** | Canhoto | Área | Baixo Esquerdo | 2T |
-| 1:08:31 | Luca | Trave | Destro | Meia-Lua | — | 2T |
-| 1:13:41 | Mateus | Fora | Canhoto | Meia-Lua | — | 2T |
-| 1:14:02 | Luca | **Gol** | Destro | Área | Alto Direito | 2T |
-| 1:16:35 | Mateus | Fora | Canhoto | Meia-Lua | — | 2T |
-| 1:17:19 | Tomás | **Gol** | Destro | Área | Centro | 2T |
+| 36:08 | Matteo | Fora | Canhoto | Meia-Lua | — | 1T |
+| 37:56 | Thomás | Fora | Destro | Meia-Lua | — | 1T |
+| 39:04 | Matteo | Defendido | Canhoto | Área | — | 1T |
+| 39:14 | Lucca | Defendido | Destro | Área | — | 1T |
+| 39:58 | Thomás | Interceptado | Destro | Meia-Lua | — | 1T |
+| 40:27 | Thomás | Fora | Destro | Meia-Lua | — | 1T |
+| 43:07 | Thomás | Fora | Destro | Meia-Lua | — | 1T |
+| 44:12 | Matteo | Defendido | Canhoto | Área | — | 1T |
+| 45:56 | Matteo | Fora | Canhoto | Meia-Lua | — | 1T |
+| 46:44 | Thomás | Interceptado | Destro | Área | — | 1T |
+| 47:42 | Thomás | **Gol** | Destro | Área | Baixo Esquerdo | 1T |
+| 1:01:14 | Matteo | Trave | Canhoto | Meia-Lua | — | 2T |
+| 1:02:18 | Matteo | Fora | Canhoto | Meia-Lua | — | 2T |
+| 1:06:24 | Matteo | **Gol** | Canhoto | Área | Baixo Esquerdo | 2T |
+| 1:08:31 | Lucca | Trave | Destro | Meia-Lua | — | 2T |
+| 1:13:41 | Matteo | Fora | Canhoto | Meia-Lua | — | 2T |
+| 1:14:02 | Lucca | **Gol** | Destro | Área | Alto Direito | 2T |
+| 1:16:35 | Matteo | Fora | Canhoto | Meia-Lua | — | 2T |
+| 1:17:19 | Thomás | **Gol** | Destro | Área | Centro | 2T |
 
 ### Escanteios
 
 | Nº | Tempo | Cobrador | Lado |
 |---|---|---|---|
-| 1 | 28:48 | Mateus | Esquerdo |
-| 2 | 37:04 | Mateus | Direito |
-| 3 | 40:08 | Mateus | Esquerdo |
+| 1 | 28:48 | Matteo | Esquerdo |
+| 2 | 37:04 | Matteo | Direito |
+| 3 | 40:08 | Matteo | Esquerdo |
 
 ### Faltas
 
 | Tempo | Responsável | Equipe | Jogador Infringido | Local |
 |---|---|---|---|---|
 | 57:55 | Jojô | Arouca | — | Área de defesa |
-| 1:04:48 | Bernardo Silva | Real Juventus | Tomás | Meio |
-| 1:15:40 | Vicente | Real Juventus | Mateus | Campo de ataque |
-| 1:15:40 | Bernardinho | Real Juventus | Tomás | Campo de ataque |
+| 1:04:48 | Bernardo Silva | Real Juventus | Thomás | Meio |
+| 1:15:40 | Vicente | Real Juventus | Matteo | Campo de ataque |
+| 1:15:40 | Bernardinho | Real Juventus | Thomás | Campo de ataque |
 
 ### Cartões
 
@@ -93,9 +93,9 @@ Nenhum cartão registrado na partida.
 
 | Jogador | Finalizações | Gols | Aproveitamento |
 |---|---|---|---|
-| Mateus | 11 | 1 | 9,1% |
-| Tomás | 9 | 2 | 22,2% |
-| Luca | 3 | 1 | 33,3% |
+| Matteo | 11 | 1 | 9,1% |
+| Thomás | 9 | 2 | 22,2% |
+| Lucca | 3 | 1 | 33,3% |
 | Jojô | 1 | 0 | 0,0% |
 
 ### Finalizações por Região da Quadra
@@ -162,8 +162,8 @@ A **região da quadra** foi a variável mais determinante — confirmando o que 
 
 1. **Região importa mais que o jogador** — o modelo de ML confirmou: finalizar da área é o fator decisivo, independente de quem chuta.
 2. **2º tempo mais eficiente** — com metade das finalizações, o Arouca marcou 3 dos 4 gols.
-3. **Mateus volume, Luca eficiência** — Mateus criou mais chances, mas Luca foi mais preciso.
-4. **Escanteios sem variação** — todos os 3 foram cobrados por Mateus, o que pode ser explorado pelo adversário.
+3. **Matteo volume, Lucca eficiência** — Matteo criou mais chances, mas Lucca foi mais preciso.
+4. **Escanteios sem variação** — todos os 3 foram cobrados por Matteo, o que pode ser explorado pelo adversário.
 
 ---
 
