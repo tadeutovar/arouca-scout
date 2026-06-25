@@ -1,8 +1,9 @@
 # 🏟️ Scouting Arouca — Futsal Sub-6
 
-Projeto de análise de dados de uma partida de futsal da categoria Sub-6, desenvolvido para a disciplina de **Projeto de Machine Learning — IBMEC Rio de Janeiro**.
+Projeto de análise de dados de uma partida de futsal da categoria Sub-6 (Federação), desenvolvido para a disciplina de **Projeto de Machine Learning — IBMEC Rio de Janeiro**.
 
-**Jogo:** Arouca × Real Juventus
+**Jogo:** Arouca 4×1 Real Juventus
+**Data:** 21/04/2026
 
 ---
 
